@@ -1,3 +1,25 @@
+/*Program to enter an integer value and print a pattern like the following-
+Example 1:
+n=5
+OUTPUT-
+1
+2 9
+3 8 10 
+4 7 12 14
+5 6 12 13 15
+
+Example 2:
+n=7
+OUTPUT-
+1
+2 13
+3 12 14 
+4 11 15 22
+5 10 16 21 23
+6  9 17 20 24 27
+7  8 18 19 25 26 28
+*/
+
 import java.util.Scanner;
 
 public class Pattern 
